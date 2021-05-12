@@ -1,6 +1,5 @@
-# sofbox-vue
-
-> Sofbox Vue Landing page
+# Nuxt.js webplayer
+Nuxt.js streaming webplayer demonstration
 
 ## Build Setup
 
